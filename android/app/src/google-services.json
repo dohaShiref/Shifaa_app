@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "610949822470",
+    "firebase_url": "https://products-fe16c-default-rtdb.firebaseio.com",
+    "project_id": "products-fe16c",
+    "storage_bucket": "products-fe16c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610949822470:android:a624e9b3be1e82e329eb87",
+        "android_client_info": {
+          "package_name": "com.example.iti_gp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610949822470-1ftckvuv9tedanoqdmuunrg0i2u5kgon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdYU1a7IyOrN-T4pIl3rgHGblMurC7WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610949822470-1ftckvuv9tedanoqdmuunrg0i2u5kgon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610949822470:android:ac5628fd3a18036429eb87",
+        "android_client_info": {
+          "package_name": "com.example.vezeeta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610949822470-1ftckvuv9tedanoqdmuunrg0i2u5kgon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdYU1a7IyOrN-T4pIl3rgHGblMurC7WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610949822470-1ftckvuv9tedanoqdmuunrg0i2u5kgon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
